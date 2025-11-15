@@ -1,0 +1,29 @@
+# Android Studio
+.gradle/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+
+# Build outputs
+build/
+app/build/
+*/build/
+
+# Kotlin
+*.kotlin_module
+
+# Log/Debug
+*.log
+
+# OS files (Windows / macOS)
+Thumbs.db
+.DS_Store
+
+# Keystore (no subir nunca claves reales)
+*.jks
+*.keystore
+
+# Cache
+.cache/
