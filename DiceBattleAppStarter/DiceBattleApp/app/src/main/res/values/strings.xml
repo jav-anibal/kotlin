@@ -1,0 +1,13 @@
+<resources>
+<string name="app_name">DiceBattleApp</string>
+<string name="dice_content_descrip">Imagen de un dado de seis caras.</string>
+<string name="player_1">Jugador 1</string>
+<string name="throw_dice">Lanzar</string>
+<string name="finish">Finalizar</string>
+<string name="result">Resultado</string>
+<string name="total">Total</string>
+<string name="title_activity_final">FinalActivity</string>
+<string name="winner">El ganador es %s con una puntuación de %d puntos.</string>
+<string name="final_result">Resultado Final</string>
+<string name="winner_loser">El jugador %1$s ha derrotado al jugador %2$s</string>
+</resources>
