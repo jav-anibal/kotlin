@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MarvelHeroesCompose</string>
+    <string name="default_content_descrip">Imagen sin descripcion.</string>
+    <string name="marvel_hero_list">Lista de MarvelHeroes</string>
+    <string name="more_content_desc">Show description</string>
+    <string name="hero_description">Description: %s.</string>
+</resources>
